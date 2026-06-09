@@ -3,6 +3,6 @@ gt
 d
 vcx
 cd
-des
+dest
 dd
 s
