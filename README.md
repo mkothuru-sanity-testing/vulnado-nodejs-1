@@ -14,4 +14,3 @@ veracode_static_scan:
     target_branch:
       - default_branch
 
-  analysis_on_platform: true
