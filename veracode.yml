@@ -2,7 +2,7 @@ veracode_static_scan:
   profile: "35055 - Java Sample App for EP Tools (internal Facing)"
   
   push:
-    trigger: false
+    trigger: true
     branches_to_run:
     branches_to_exclude:
 
