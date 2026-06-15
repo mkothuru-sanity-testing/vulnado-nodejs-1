@@ -3,7 +3,7 @@ veracode_static_scan:
   
   push:
     trigger: false
-    branches_to_run:
+    branches_to_run:a
     branches_to_exclude:
 
   pull_request:
